@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use master-canvas-mcp in your work, please cite it and credit Sam Wasserman (wassermanproductions.com), per the NOTICE file."
+title: "master-canvas-mcp"
+type: software
+authors:
+  - family-names: "Wasserman"
+    given-names: "Sam"
+    website: "https://wassermanproductions.com"
+version: "1.0.0"
+date-released: "2026-07-13"
+license: "MIT"
+repository-code: "https://github.com/wassermanproductions/master-canvas-mcp"
+keywords: [mcp, model-context-protocol, master-canvas, pre-production, handoff, filmmaking]
