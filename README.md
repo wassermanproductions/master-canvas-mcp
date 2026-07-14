@@ -100,6 +100,15 @@ A typical agent session: `get_project` → `set_continuity` → `add_card` (scen
 
 This server only touches the local filesystem: it reads and writes the Master Canvas project JSON and copies asset files you point it at into the project folder. It opens no network connections and exposes nothing off-machine. Point it only at project paths you trust.
 
+## Support
+
+A few people asked if they could send tips to support my work developing open source tools. So I set up an optional way in case anyone wants to.
+
+No pressure at all. Using the apps, sharing them, starring the repositories, and contributing code all help too. Thank you.
+
+- [GitHub Sponsors](https://github.com/sponsors/wassermanproductions)
+- [Ko-fi](https://ko-fi.com/samwasserman)
+
 ## License & credit
 
 MIT — see [LICENSE](LICENSE). Per the [NOTICE](NOTICE) file, please credit **Sam Wasserman ([wassermanproductions.com](https://wassermanproductions.com))** in uses, forks, and redistributions.
